@@ -287,11 +287,14 @@ permalink: /team/
   <tr>
     <th>Graduate Students</th>
   </tr>
-  <tr>
-    <td>Alexander Chen, Spring 2022</td>
+    <tr>
+    <td>Jayishnu Roy, Spring 2025</td>
   </tr>
   <tr>
     <td>Mark McHargue, Spring 2023</td>
+  </tr>
+  <tr>
+    <td>Alexander Chen, Spring 2022</td>
   </tr>
   <!-- Add new graduates here -->
 </table>
