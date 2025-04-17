@@ -1,5 +1,5 @@
 - name: Matthew Patrick, BS
-  photo: Matt_2.jpg
+  photo: Matt.jpg
   info: I have a BS in Biology and minor in Physics from the University of Kentucky. I’m interested in biomaterial and tissue engineering research. I like playing music, watching movies, and being active.
   email: mdpatric@buffalo.edu
 
@@ -12,11 +12,6 @@
   photo: aditi.jpg
   info: I have a BS in Chemical Engineering. I’m interested in drug delivery for diabetes and metabolic syndrome.
   email: Aditi.Tata@buffalo.edu
-
-- name: Jayishnu Roy, BE
-  photo: jay.jpg
-  info: I have a BS in Chemical Engineering. I’m interested in drug delivery for osteoarthritis and aging-related disorders.
-  email: Jay.Roy@buffalo.edu
 
 - name: Heather Thompson, BS
   photo: Heather.jpg
