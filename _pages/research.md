@@ -37,13 +37,13 @@ Osteoarthritis (OA) and post-traumatic OA (PTOA) cause significant disability, y
 
 Nonunion fractures are difficult to treat and often lack effective solutions. Our lab is advancing injectable stem cell therapies for bone regeneration, moving from small animal models toward human trials. To improve clinical outcomes, we are studying how immune cells like macrophages guide bone healing. By harnessing the body’s own inflammatory signals, we aim to design injectable therapies and scaffolds that promote bone repair without relying on external growth factors, bridging the gap between immunology and regenerative medicine.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: left; border: 0px"}
 
 #### **iv) Biomaterials for immunomodulation and immunoengineering**
 
 After injury or infection, immune cells like macrophages and neutrophils rapidly infiltrate tissues, guided by their secretion of MMPs. Our research develops “smart” biomaterials that sense and respond to inflammation, enabling precise, on-demand release of drugs or growth factors. This targeted approach prevents drug washout and prolongs therapeutic effects, especially for chronic conditions like osteoarthritis. We are also interested in modulating immune responses by tuning material properties such as curvature, stiffness, viscoelasticity, and porosity, allowing us to further direct healing and tissue regeneration.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/optical.png){: style="width: 350px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/optical.png){: style="width: 350px; float: right; border: 0px"}
 
 #### **v) Real-Time Sensing of Bone Healing with Implantable Optical Strain Sensors**
 
