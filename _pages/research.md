@@ -19,6 +19,12 @@ We use high-throughput modalities, such as single-cell and spatial transcriptomi
 
 Below, I summarize my primary research projects and future goals.
 
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/fibrosis.jpg){: style="width: 450px; float: right; border: 0px"}
+
+#### **i) Targeting Macrophage Driven Fibrosis in Bone Repair and Healing**
+
+Fracture nonunion impacts up to 10% of long bone fractures in the U.S., causing chronic pain and disability. Current treatments focus on bone stabilization but overlook pathological fibrosis—the main biological barrier to healing. Our research identifies macrophage derived thrombospondins and galectins as key drivers of fibroblast activation and scar formation, particularly in unstable fractures. We propose that high mechanical strain prompts macrophages to release these profibrotic factors, leading to fibrotic nonunion. Using advanced fracture models, mechanobiology, and omics, our team is working to disrupt this immune-stromal cross-talk and enable functional bone regeneration without fibrosis.
+
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **i) Immune dysfunction in musculoskeletal tissues**
@@ -26,7 +32,7 @@ Below, I summarize my primary research projects and future goals.
 Nonunion fractures pose significant clinical challenges due to limited treatment options. Our lab has developed an injectable mesenchymal stem cell therapy that successfully regenerates bone in small animals and is currently advancing to larger models and human trials. However, clinical application is hindered by reliance on external osteoinductive signals. To address this, we investigate macrophages—central immune regulators in fracture healing—to decode their role in recruiting progenitor cells and directing osteoblast differentiation. By leveraging these immune-driven mechanisms, we aim to engineer scaffolds that harness endogenous inflammatory signals to achieve robust bone regeneration without exogenous cues, bridging immune biology and regenerative medicine.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **ii) Biomaterials for immunomodulation and immunoengineering**
 Macrophages and neutrophils infiltrate tissues swiftly after an injury or infection. Their invasiveness is mainly steered by their secretion of MMPs. Our recently published work showed that the material properties could be tuned to deliver growth factors in a spatiotemporally controlled manner by synchronizing their response with the local inflammatory milieu. Such ‘smart’ delivery vehicles are useful for targeted delivery of drugs and growth factors for healing recalcitrant wounds and inflammation-driven ailments. These ‘smart’ delivery vehicles can titrate the drug release to synchronize with the inflammatory response resulting in optimal therapeutic efficacy. This can reduce the washout of drugs during periods of low disease activity and hence prolong their therapeutic effect. Part of our research is to develop a flare-responsive ‘smart’ delivery system for osteoarthritis (OA). Our approach will tailor the chemistry of the microparticles to take advantage of the proteases-rich inflammatory milieu for the spatiotemporally controlled release of the loaded drugs.
