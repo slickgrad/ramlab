@@ -25,21 +25,26 @@ Below, I summarize my primary research projects and future goals.
 
 Fracture nonunion impacts up to 10% of long bone fractures in the U.S., causing chronic pain and disability. Current treatments focus on bone stabilization but overlook pathological fibrosis—the main biological barrier to healing. Our research identifies macrophage derived thrombospondins and galectins as key drivers of fibroblast activation and scar formation, particularly in unstable fractures. We propose that high mechanical strain prompts macrophages to release these profibrotic factors, leading to fibrotic nonunion. Using advanced fracture models, mechanobiology, and omics, our team is working to disrupt this immune-stromal cross-talk and enable functional bone regeneration without fibrosis.
 
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 450px; float: right; border: 0px"}
+
+#### **ii) Targeting Cellular Senescence in Osteoarthritis**
+
+Osteoarthritis (OA) and post-traumatic OA (PTOA) cause significant disability, yet current treatments only manage symptoms, failing to address the root causes of cartilage degeneration. Our research focuses on chondrocyte senescence—a state where cartilage cells secrete harmful factors, disrupting joint health. We are developing a novel drug delivery system that targets a key cellular pathway known to suppress this senescence. By encapsulating a therapeutic molecule within advanced nanocarriers and embedding them in a biocompatible hydrogel, we aim to achieve potent, sustained delivery to the joint, promoting cartilage repair and offering a disease-modifying approach for OA.
+
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
 
-#### **i) Immune dysfunction in musculoskeletal tissues**
+#### **iii) Injectable Therapies for Bone Defects**
 
-Nonunion fractures pose significant clinical challenges due to limited treatment options. Our lab has developed an injectable mesenchymal stem cell therapy that successfully regenerates bone in small animals and is currently advancing to larger models and human trials. However, clinical application is hindered by reliance on external osteoinductive signals. To address this, we investigate macrophages—central immune regulators in fracture healing—to decode their role in recruiting progenitor cells and directing osteoblast differentiation. By leveraging these immune-driven mechanisms, we aim to engineer scaffolds that harness endogenous inflammatory signals to achieve robust bone regeneration without exogenous cues, bridging immune biology and regenerative medicine.
-
+Nonunion fractures are difficult to treat and often lack effective solutions. Our lab is advancing injectable stem cell therapies for bone regeneration, moving from small animal models toward human trials. To improve clinical outcomes, we are studying how immune cells like macrophages guide bone healing. By harnessing the body’s own inflammatory signals, we aim to design injectable therapies and scaffolds that promote bone repair without relying on external growth factors, bridging the gap between immunology and regenerative medicine.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 0px"}
 
-#### **ii) Biomaterials for immunomodulation and immunoengineering**
+#### **iv) Biomaterials for immunomodulation and immunoengineering**
 Macrophages and neutrophils infiltrate tissues swiftly after an injury or infection. Their invasiveness is mainly steered by their secretion of MMPs. Our recently published work showed that the material properties could be tuned to deliver growth factors in a spatiotemporally controlled manner by synchronizing their response with the local inflammatory milieu. Such ‘smart’ delivery vehicles are useful for targeted delivery of drugs and growth factors for healing recalcitrant wounds and inflammation-driven ailments. These ‘smart’ delivery vehicles can titrate the drug release to synchronize with the inflammatory response resulting in optimal therapeutic efficacy. This can reduce the washout of drugs during periods of low disease activity and hence prolong their therapeutic effect. Part of our research is to develop a flare-responsive ‘smart’ delivery system for osteoarthritis (OA). Our approach will tailor the chemistry of the microparticles to take advantage of the proteases-rich inflammatory milieu for the spatiotemporally controlled release of the loaded drugs.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website9.jpg){: style="width: 450px; float: right; border: 0px"}
 
-#### **iii) Enabling technologies for tissue vascularization**
+#### **v) Enabling technologies for tissue vascularization**
 
 A rapid and functional vascularization is indispensable for reinforcing the functionality of an engineered tissue construct and also restoring the functionality of ischemic tissue. We have developed different vascularization strategies using chitosan-glycosaminoglycan microcapsules and vasculogenic fibrin microtissues for creating a network of microvessels. These modules are injectable and once delivered within a scaffold or a tissue they generate microvessels with the lumen. These microvessels inosculate and form a vessel network resembling a terminal vascular bed. Although these strategies are very promising, often they require pre-culturing or preconditioning with growth factors such as PDGF or VEGF, which isn’t clinically feasible.
 
