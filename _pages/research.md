@@ -43,7 +43,7 @@ Nonunion fractures are difficult to treat and often lack effective solutions. Ou
 
 After injury or infection, immune cells like macrophages and neutrophils rapidly infiltrate tissues, guided by their secretion of MMPs. Our research develops “smart” biomaterials that sense and respond to inflammation, enabling precise, on-demand release of drugs or growth factors. This targeted approach prevents drug washout and prolongs therapeutic effects, especially for chronic conditions like osteoarthritis. We are also interested in modulating immune responses by tuning material properties such as curvature, stiffness, viscoelasticity, and porosity, allowing us to further direct healing and tissue regeneration.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/optical.png){: style="width: 450px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/optical.png){: style="width: 350px; float: left; border: 0px"}
 
 #### **v) Real-Time Sensing of Bone Healing with Implantable Optical Strain Sensors**
 
