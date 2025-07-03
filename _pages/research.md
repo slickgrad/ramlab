@@ -19,7 +19,7 @@ We use high-throughput modalities, such as single-cell and spatial transcriptomi
 
 Below, I summarize my primary research projects and future goals.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/fibrosis.jpg){: style="width: 450px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/fibrosis.jpg){: style="width: 350px; float: right; border: 0px"}
 
 #### **i) Targeting Macrophage Driven Fibrosis in Bone Repair and Healing**
 
