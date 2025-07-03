@@ -31,7 +31,7 @@ Fracture nonunion impacts up to 10% of long bone fractures in the U.S., causing 
 
 Osteoarthritis (OA) and post-traumatic OA (PTOA) cause significant disability, yet current treatments only manage symptoms, failing to address the root causes of cartilage degeneration. Our research focuses on chondrocyte senescence—a state where cartilage cells secrete harmful factors, disrupting joint health. We are developing a novel drug delivery system that targets a key cellular pathway known to suppress this senescence. By encapsulating a therapeutic molecule within advanced nanocarriers and embedding them in a biocompatible hydrogel, we aim to achieve potent, sustained delivery to the joint, promoting cartilage repair and offering a disease-modifying approach for OA.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: left; border: 0px"}
 
 #### **iii) Injectable Therapies for Bone Defects**
 
