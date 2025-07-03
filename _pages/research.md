@@ -25,13 +25,13 @@ Below, I summarize my primary research projects and future goals.
 
 Fracture nonunion impacts up to 10% of long bone fractures in the U.S., causing chronic pain and disability. Current treatments focus on bone stabilization but overlook pathological fibrosis—the main biological barrier to healing. Our research identifies macrophage derived thrombospondins and galectins as key drivers of fibroblast activation and scar formation, particularly in unstable fractures. We propose that high mechanical strain prompts macrophages to release these profibrotic factors, leading to fibrotic nonunion. Using advanced fracture models, mechanobiology, and omics, our team is working to disrupt this immune-stromal cross-talk and enable functional bone regeneration without fibrosis.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 350px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 350px; float: left; border: 0px"}
 
 #### **ii) Targeting Cellular Senescence in Osteoarthritis**
 
 Osteoarthritis (OA) and post-traumatic OA (PTOA) cause significant disability, yet current treatments only manage symptoms, failing to address the root causes of cartilage degeneration. Our research focuses on chondrocyte senescence—a state where cartilage cells secrete harmful factors, disrupting joint health. We are developing a novel drug delivery system that targets a key cellular pathway known to suppress this senescence. By encapsulating a therapeutic molecule within advanced nanocarriers and embedding them in a biocompatible hydrogel, we aim to achieve potent, sustained delivery to the joint, promoting cartilage repair and offering a disease-modifying approach for OA.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website2.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **iii) Injectable Therapies for Bone Defects**
 
