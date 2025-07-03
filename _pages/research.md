@@ -25,7 +25,7 @@ Below, I summarize my primary research projects and future goals.
 
 Fracture nonunion impacts up to 10% of long bone fractures in the U.S., causing chronic pain and disability. Current treatments focus on bone stabilization but overlook pathological fibrosis—the main biological barrier to healing. Our research identifies macrophage derived thrombospondins and galectins as key drivers of fibroblast activation and scar formation, particularly in unstable fractures. We propose that high mechanical strain prompts macrophages to release these profibrotic factors, leading to fibrotic nonunion. Using advanced fracture models, mechanobiology, and omics, our team is working to disrupt this immune-stromal cross-talk and enable functional bone regeneration without fibrosis.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 450px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 350px; float: right; border: 0px"}
 
 #### **ii) Targeting Cellular Senescence in Osteoarthritis**
 
