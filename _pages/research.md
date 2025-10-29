@@ -23,7 +23,7 @@ Below, I summarize my primary research projects and future goals.
   <div class="media w-35ch">
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fibrosis.jpg" alt="Fibrosis research illustration">
   </div>
-  <div class="text">
+  <div class="text" markdown="1">
 
 #### **i) Targeting Macrophage Driven Fibrosis in Bone Repair and Healing**
 
