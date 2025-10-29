@@ -25,7 +25,7 @@ Below, I summarize my primary research projects and future goals.
 
 Fracture nonunion impacts up to 10% of long bone fractures in the U.S., causing chronic pain and disability. Current treatments focus on bone stabilization but overlook pathological fibrosis—the main biological barrier to healing. Our research identifies macrophage derived thrombospondins and galectins as key drivers of fibroblast activation and scar formation, particularly in unstable fractures. We propose that high mechanical strain prompts macrophages to release these profibrotic factors, leading to fibrotic nonunion. Using advanced fracture models, mechanobiology, and omics, our team is working to disrupt this immune-stromal cross-talk and enable functional bone regeneration without fibrosis.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 350px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/osteoarthritis.png){: style="width: 350px; float: right; border: 0px"}
 
 #### **ii) Targeting Cellular Senescence in Osteoarthritis**
 
@@ -37,7 +37,7 @@ Osteoarthritis (OA) and post-traumatic OA (PTOA) cause significant disability, y
 
 Nonunion fractures are difficult to treat and often lack effective solutions. Our lab is advancing injectable stem cell therapies for bone regeneration, moving from small animal models toward human trials. To improve clinical outcomes, we are studying how immune cells like macrophages guide bone healing. By harnessing the body’s own inflammatory signals, we aim to design injectable therapies and scaffolds that promote bone repair without relying on external growth factors, bridging the gap between immunology and regenerative medicine.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg){: style="width: 450px; float: right; border: 0px"}
 
 #### **iv) Biomaterials for immunomodulation and immunoengineering**
 
