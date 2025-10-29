@@ -90,3 +90,43 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
+
+/* Research page - side-by-side layout */
+.research-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.research-section .text {
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+.research-section .media {
+    flex: 0 0 auto;
+    max-width: 350px;
+}
+
+.research-section .media img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Width modifiers for specific sections */
+.media.w-35ch { max-width: 350px; }
+.media.w-45ch { max-width: 450px; }
+
+/* Stack on mobile */
+@media (max-width: 768px) {
+    .research-section {
+        flex-direction: column;
+    }
+    .research-section .media {
+        max-width: 100%;
+    }
+}
