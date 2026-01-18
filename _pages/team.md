@@ -287,6 +287,9 @@ permalink: /team/
   <tr>
     <th>Graduate Students</th>
   </tr>
+   <tr>
+    <td>Aditi Tata, Fall 2025</td>
+  </tr>
     <tr>
     <td>Jayishnu Roy, Spring 2025</td>
   </tr>
