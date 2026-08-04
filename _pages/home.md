@@ -12,18 +12,27 @@ permalink: /
 We’re a dynamic, interdisciplinary team in the [**Department of Biomedical Engineering**](https://engineering.buffalo.edu/bme.html), driven by curiosity and a shared mission: to unlock the secrets of how cells, materials, and the body’s repair mechanisms intertwine. Our passion lies in pioneering regenerative therapies that could transform lives—from healing nonunion fractures to battling chronic diseases like osteoarthritis and sarcopenia.
 ---
 ### **Our Research: Bridging Discovery and Impact**  
-At the TERM Lab, we explore the interplay between *mechanobiology*, *immunology*, and *biomaterials* to answer bold questions and engineer groundbreaking solutions:  
+At the TERM Lab we pursue four integrated research areas that convert basic insights into therapies and diagnostics for musculoskeletal health.
 
-🔬 **Decoding Cellular Mechanics**  
-- How do immune cells (e.g., macrophages) and mesenchymal stromal cells sense mechanical cues during tissue repair?  
-- Studying their behavior in bone healing, chronic wounds, and diseases to harness their regenerative potential.  
+🔬 **Mechanoimmunology and Tissue Regeneration**
+- How mechanical cues (strain, curvature, viscoelasticity) shape macrophage responses and repair outcomes.
+- Identification of pathways (e.g., macrophage-derived TSP1) linking mechanical instability to fibrosis and fracture nonunion.
+- Spatial and single-cell mapping of immune–stromal interactions that determine regeneration versus scarring.
 
-💡 **Engineering Smart Biomaterials**  
-- Designing *microengineered systems* and *immunomodulatory biomaterials* that actively guide healing.  
-- Accelerating regeneration in wounds and chronic conditions.  
+💡 **Active Immunotherapies for MSK Health**  
+- Nanoparticle vaccines to treat osteoporosis, sarcopenia, osteoarthritis, and skeletal fragility.
+- Targeting inhibitors of bone formation (Mstn, Sost) to promote durable bone and muscle repair.
+- Developing longer‑lasting, accessible alternatives to frequent‑dosing therapies.
 
-🩺 **From Bench to Bedside**  
-- Investigating nonunion fractures, osteoarthritis, and other pathologies to develop therapies that restore function.
+🦠 **Infection Biology and Orthopedic Infections**
+- Studying interactions among pathogens, host immunity, biomaterials, and mechanics in implant-associated infection.
+- Developing vaccines and phage-based treatments to prevent or resolve implant infections and improve healing.
+
+📡 **Device Development**
+
+- In collaboration with BME labs, creating stick-to-skin wearables (including electrical impedance tomography) to monitor inflammation and remodeling after injury.
+- Building continuous strain sensors for fractures to study mechanobiology and predict nonunion.
+- Translating mechanistic insights into devices and approaches to restore function in nonunion fractures, osteoarthritis, and related pathologies.
 
 ---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
