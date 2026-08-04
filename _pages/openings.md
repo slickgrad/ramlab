@@ -7,12 +7,12 @@ permalink: /positions
 #### **We Want Trailblazers!**  
 *If you eat, sleep, and breathe biomedical innovation – let’s make magic happen.*  
 
-🔬 **We’re hunting for:**  
-- Musculoskeletal biology enthusiasts 🦴  
-- Synthetic biomaterial alchemists 🧪
-- Hydrogel mechanics gurus 🔬  
-- Mechanotransduction detectives 🕵️ 
-- Macrophage mavericks 🦠  
+### **(Updated Aug 2026)** 
+We are seeking motivated researchers with expertise in the following areas:
+
+**Microbiology:** Orthopedic infections and the characterization of ESKAPE pathogens.
+**Mechanobiology:** Molecular and cellular mechanotransduction using advanced molecular tools.
+**Bioinformatics:** Spatial transcriptomics and single-cell sequencing analysis.
 
 ### **Prospective Graduate Students and Postdocs**
 If you are interested in working with us as a PhD student or Postdoctoral fellow, please send me an [email](mailto:ramkumar.suny@gmail.com). Briefly mention why you are interested in this position and attach a CV, with your graduate and undergraduate transcripts. No need for a separate cover letter or certificates. Please add _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are a master's student at UB looking for a master's thesis project, email me or stop by my office. Women and underrepresented minorities are encouraged to apply.
