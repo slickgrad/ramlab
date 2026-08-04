@@ -4,10 +4,10 @@ excerpt: "positions"
 sitemap: false
 permalink: /positions
 ---
-#### **We Want Trailblazers!**  
+### **We Want Trailblazers!**  
 *If you eat, sleep, and breathe biomedical innovation – let’s make magic happen.*  
 
-### 🆕 **Positions Open: Updated August 2026** 🆕
+#### 🆕 **Positions Open: Updated August 2026** 🆕
 We are seeking motivated researchers with expertise in the following areas:
 
 **Microbiology:** Orthopedic infections and the characterization of ESKAPE pathogens.
