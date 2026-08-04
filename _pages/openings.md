@@ -11,7 +11,9 @@ permalink: /positions
 We are seeking motivated researchers with expertise in the following areas:
 
 **Microbiology:** Orthopedic infections and the characterization of ESKAPE pathogens.
+
 **Mechanobiology:** Molecular and cellular mechanotransduction using advanced molecular tools.
+
 **Bioinformatics:** Spatial transcriptomics and single-cell sequencing analysis.
 
 ### **Prospective Graduate Students and Postdocs**
