@@ -99,6 +99,13 @@ At the TERM Lab we pursue four integrated research areas that convert basic insi
 ### **Join Our Team!**  
 Are you a curious student or researcher with a background in **chemical engineering, materials science, mechanical engineering, or biology**? Join us in solving puzzles at the frontier of regenerative medicine! Reach out to Dr. Ramkumar Annamalai [(Email)](mailto:ramkumar.suny@gmail.com) to explore opportunities.
 
+## **Positions open: Graduate students and postdocs (Aug 2026)**
+We seek motivated researchers with expertise in the following areas:
+
+- Microbiology: Orthopedic infections and the characterization of ESKAPE pathogens.
+- Mechanobiology: Molecular and cellular mechanotransduction using advanced molecular tools.
+- Bioinformatics: Spatial transcriptomics and single-cell sequencing analysis.
+
 ### **Funding & Support**  
 We gratefully acknowledge support from:  
 - UB School of Engineering and Applied Sciences
