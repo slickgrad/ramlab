@@ -68,7 +68,7 @@ At the TERM Lab we pursue four integrated research areas that convert basic insi
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website3.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website12.tif" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/website6.jpg" alt="Slide 6" />
