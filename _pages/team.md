@@ -244,6 +244,9 @@ permalink: /team/
   <!-- Undergraduate Students Table -->
 <table align="center" style="width:100%; margin-bottom: 2rem;">
  <tr>
+    <tr>
+    <th>Undergraduate Students</th>
+  </tr>
         <td>Sami Aoussim, Spring 2026</td>
   </tr>
  <tr>
