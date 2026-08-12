@@ -1,7 +1,3 @@
-- name: Matthew Patrick, BS
-  photo: Matt.jpg
-  info: I have a BS in Biology and minor in Physics from the University of Kentucky. I’m interested in biomaterial and tissue engineering research. I like playing music, watching movies, and being active.
-  email: mdpatric@buffalo.edu
 
 - name: Zachary Varrenti, BS
   photo: zach.jpg
@@ -13,12 +9,14 @@
   info: I have a BS in Biomedical Engineering. I’m interested in vaccine development for osteoporosis and bone fraility.
   email: Brian.Higgins@buffalo.edu
 
-- name: Sami Aoussim, BS
-  photo: sami2.jpg
-  info: I have a BS in Biomedical Engineering from UB. I am currently in my one year of Master's in BME through the combined 4+1 BS/MS path. I am interested in macrophage phenotype changes through hydrogel bead encapsulation. 
-  email: sami.Aoussim@buffalo.edu
-
+- name: Srihari Gopalan, MS
+  photo: ssgopala.jpg
+  info: I have a BS and MS in Biomedical Engineering from the University of Wisconsin-Madison. I am interested in using biomaterials and tissue engineering to better understand musculoskeletal aging and disease. Also, I like playing tennis and singing.
+  email: ssgopalan@buffalo.edu
+  
 - name: Heather Thompson, BS
   photo: Heather.jpg
   info: Heather has a Bachelor of Technology in Biosystems Engineering from the University of Kentucky. She is working on engineering biomaterials with stress relaxation for immunomodulation.
   email: Heather.Thompson@uky.edu
+
+
