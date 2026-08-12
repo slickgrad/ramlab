@@ -261,12 +261,11 @@ permalink: /team/
     <td>Alexander Chen, Spring 2022</td>
   </tr>
   <!-- Add new graduates here -->
-
 </table>
 
 
 
-  <!-- Undergraduate Students Table -->
+<!-- Undergraduate Students Table -->
 <table align="center" style="width:100%; margin-bottom: 2rem;">
  <tr>
     <tr>
