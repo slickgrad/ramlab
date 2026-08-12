@@ -240,6 +240,29 @@ permalink: /team/
 
 <table align="center" style="width:100%">
 
+<!-- Graduate Students Table -->
+<table align="center" style="width:100%">
+  <tr>
+    <th>Graduate Students</th>
+  </tr>
+     <tr>
+    <td>Matthew Patrick, Spring 2026</td>
+  </tr>
+   <tr>
+    <td>Aditi Tata, Fall 2025</td>
+  </tr>
+    <tr>
+    <td>Jayishnu Roy, Spring 2025</td>
+  </tr>
+  <tr>
+    <td>Mark McHargue, Spring 2023</td>
+  </tr>
+  <tr>
+    <td>Alexander Chen, Spring 2022</td>
+  </tr>
+  <!-- Add new graduates here -->
+</table>
+
 
   <!-- Undergraduate Students Table -->
 <table align="center" style="width:100%; margin-bottom: 2rem;">
