@@ -287,6 +287,9 @@ permalink: /team/
   <tr>
     <th>Graduate Students</th>
   </tr>
+     <tr>
+    <td>Matthew Patrick, Spring 2026</td>
+  </tr>
    <tr>
     <td>Aditi Tata, Fall 2025</td>
   </tr>
