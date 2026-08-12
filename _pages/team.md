@@ -261,7 +261,9 @@ permalink: /team/
     <td>Alexander Chen, Spring 2022</td>
   </tr>
   <!-- Add new graduates here -->
+
 </table>
+
 
 
   <!-- Undergraduate Students Table -->
@@ -311,25 +313,20 @@ permalink: /team/
   <!-- Add new undergraduates here -->
 </table>
 
-<!-- Graduate Students Table -->
+<!-- High School Students Table -->
 <table align="center" style="width:100%">
   <tr>
-    <th>Graduate Students</th>
+    <th>High School Students and Other Scholars</th>
   </tr>
      <tr>
-    <td>Matthew Patrick, Spring 2026</td>
+    <td>Poornima Kandarpa, Fall 2026</td>
   </tr>
-   <tr>
-    <td>Aditi Tata, Fall 2025</td>
+       <tr>
+    <td>Maria Franco-Rico (Exchange), Summer 2022</td>
   </tr>
-    <tr>
-    <td>Jayishnu Roy, Spring 2025</td>
+     <tr>
+    <td>Kate Hazelwood, Spring 2022</td>
   </tr>
-  <tr>
-    <td>Mark McHargue, Spring 2023</td>
-  </tr>
-  <tr>
-    <td>Alexander Chen, Spring 2022</td>
-  </tr>
+
   <!-- Add new graduates here -->
 </table>
